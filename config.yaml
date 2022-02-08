@@ -33,6 +33,12 @@ params:
     footer: true
     sharethis: true
     network: twitter
+  - title: youtube
+    url: https://www.youtube.com/channel/UC6qtkVOtbiBs0ryq64Hicgg
+    icon: fa-youtube
+    footer: true 
+    sharethis: true
+    network: youtube
 menu:
   main:
   - name: support us
