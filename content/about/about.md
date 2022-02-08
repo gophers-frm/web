@@ -3,7 +3,7 @@ title: about
 date: 2018-03-22 13:46:58 +0000
 
 ---
-Frankfurt Rhein-Main Gophers Meetup is organized by Anna-Katharina Wickert, Arne Hormann and Sascha Andres.
+Frankfurt Rhein-Main Gophers Meetup is organized by Anna-Katharina Wickert, Arne Hormann, Sascha Andres and Simon Bein.
 
 ## Anna-Katharina Wickert
 
@@ -16,3 +16,7 @@ Arne is not a dogmatic, but Go is by far his favorite language. He especially lo
 ## Sascha Andres
 
 Loves computer languages in general is was inspired by the book "The Laws of Simplicity" written by John Maeda. Go just fits and became his go-to language.
+
+## Simon Bein
+
+Simon first came in contact with Go when working in the Kubernetes-Ecosystem and has loved the language ever since.
