@@ -41,12 +41,15 @@ params:
     network: youtube
 menu:
   main:
+  - name: meetups
+    url: "/meetups"
+    weight: 4
   - name: support us
     url: "/support"
     weight: 10
   - name: hosts
     url: "/hosts"
-    weight: 4
+    weight: 5
   - name: join
     url: "/join"
     weight: 3
