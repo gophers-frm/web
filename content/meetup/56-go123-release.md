@@ -1,6 +1,6 @@
 ---
 title: "56th Gofrm meetup - Go 1.23 Release Party"
-date: 2024-08-20T18:30:00+02:00 
+date: 2024-08-28T18:30:00+02:00 
 pubdate: 2024-08-20T18:30:00+02:00  
 draft: false 
 ---
