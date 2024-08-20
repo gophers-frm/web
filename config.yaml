@@ -44,6 +44,9 @@ menu:
   - name: support us
     url: "/support"
     weight: 10
+  - name: meetups
+    url: "/meetup"
+    weight: 5
   - name: hosts
     url: "/hosts"
     weight: 4
